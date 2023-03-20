@@ -3,9 +3,10 @@
 
 <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg](https://www.canva.com/design/DAFdtFn6XaU/watch)"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varung266&label=Profile%20views&color=0e75b6&style=flat" alt="varung266" /> </p>
+<p align="center"> <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=varung266&label=Profile%20views&color=0e75b6&style=flat" alt="varung266" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varung266" alt="varung266" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varung266" alt="varung266" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/varunggoyal5" target="blank"><img src="https://img.shields.io/twitter/follow/varunggoyal5?logo=twitter&style=for-the-badge" alt="varunggoyal5" /></a> </p>
 
