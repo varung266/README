@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Varun Goyal</h1>
 <h3 align="center">A passionate frontend developer and Entrepreneur from India</h3>
 
+<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg](https://www.canva.com/design/DAFdtFn6XaU/watch)"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varung266&label=Profile%20views&color=0e75b6&style=flat" alt="varung266" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varung266" alt="varung266" /></a> </p>
@@ -17,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/varunggoyal5" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" alt="varunggoyal5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/varung26" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="varung26" height="30" width="40" /></a>
+<a href="https://twitter.com/varunggoyal5" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" alt="varunggoyal5" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/varung26" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="varung26" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
